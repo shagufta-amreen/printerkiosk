@@ -1,1 +1,1 @@
-"Removing hello and typing something"
+"Removing hello and typing something ..."
